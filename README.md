@@ -1,7 +1,7 @@
 # merge-solo
 
-she
+I
 want
 a
 pet
-cat
+dog
